@@ -1,0 +1,3 @@
+Files-Pattern: *
+License-Type: open
+Version: 2014.06.30
